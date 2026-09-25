@@ -1,6 +1,6 @@
 # Smart Flood / Waterlogging Access Control System
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Smart Flood / Waterlogging Access Control System** is a low-cost,
 sensor-based safety system designed to help prevent people from entering
@@ -19,7 +19,7 @@ identify hazardous water conditions.
 
 ------------------------------------------------------------------------
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Flooding and waterlogging can make roads and other accessible areas
 dangerous. Since warning signs or barriers may not always be available,
@@ -34,7 +34,7 @@ There is a need for a simple and affordable system that can:
 
 ------------------------------------------------------------------------
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 Our system provides an **automatic access-control mechanism** for
 flood-prone or waterlogged areas.
@@ -55,7 +55,7 @@ automatic gate-control concept**.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Working Principle
+## Working Principle
 
 ### Step 1 --- Monitor the Area
 
@@ -100,7 +100,7 @@ AREA RESTRICTED
 
 ------------------------------------------------------------------------
 
-## 🔄 System Flow
+## System Flow
 
 ``` text
         ┌─────────────────────┐
@@ -131,10 +131,10 @@ AREA RESTRICTED
        │ Person Detect.│
        └───────────────┘
 ```
-
+## circuit ![circuit](circuit.png)
 ------------------------------------------------------------------------
 
-## 🧰 Components Used
+##  Components Used
 
   Component                              Purpose
   -------------------------------------- ---------------------------------------
@@ -174,8 +174,8 @@ Gate   Display      + LED
 ```
 
 ------------------------------------------------------------------------
-
-## ✨ Key Innovation
+## connection ![connection](connection.jpg)
+##  Key Innovation
 
 The main concept of this project is the integration of:
 
@@ -197,7 +197,7 @@ of a hazardous waterlogged area.
 
 ------------------------------------------------------------------------
 
-## 🚀 Advantages
+## Advantages
 
 -   Helps reduce the risk of people entering hazardous waterlogged
     areas.
@@ -212,7 +212,7 @@ of a hazardous waterlogged area.
 
 ------------------------------------------------------------------------
 
-## 📍 Potential Applications
+## Potential Applications
 
 The concept can be adapted for:
 
@@ -227,7 +227,7 @@ The concept can be adapted for:
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 The prototype can be further developed by adding:
 
@@ -279,7 +279,7 @@ to improve the reliability of the safety decision.
 
 ------------------------------------------------------------------------
 
-## 🧪 Prototype Demonstration
+##  Prototype Demonstration
 
 The prototype demonstrates the interaction between the **IR sensor,
 Arduino, and servo-based gate mechanism**.
@@ -293,7 +293,7 @@ stage to create a complete flood/waterlogging access-control system.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 -   Arduino
 -   Embedded C / Arduino IDE
@@ -304,7 +304,7 @@ stage to create a complete flood/waterlogging access-control system.
 
 ------------------------------------------------------------------------
 
-## 📊 System Logic
+## System Logic
 
 ``` text
 START
@@ -341,7 +341,7 @@ Hazardous Water Condition?
 
 ------------------------------------------------------------------------
 
-## 👥 Project Objective
+##  Project Objective
 
 The objective of this project is to develop a **simple, affordable, and
 scalable safety mechanism** that can automatically regulate access to
@@ -350,7 +350,7 @@ to approaching people.
 
 ------------------------------------------------------------------------
 
-## 📌 Conclusion
+##  Conclusion
 
 The Smart Flood / Waterlogging Access Control System demonstrates how
 simple embedded-system components can be combined to address a
@@ -366,7 +366,7 @@ IoT-enabled, GPS-supported, solar-powered flood safety system.
 
 ------------------------------------------------------------------------
 
-## 📄 Project Status
+##  Project Status
 
 **Prototype Stage**
 
@@ -377,32 +377,23 @@ warning/indication interface
 Planned/expandable: - ⬜ Water-level-based hazard detection - ⬜ IoT
 monitoring - ⬜ GPS location reporting - ⬜ GSM emergency alerts - ⬜
 Solar-powered operation
-
+## After the connection ![After the connection](After the connection.jpg)
 ------------------------------------------------------------------------
 
-## 👤 Author
+##  Author
 
 **Shamini**
 
 ------------------------------------------------------------------------
 
-## 🤝 Contributors
+## Contributors
 
 This project was developed as a team effort by **3 team members**, who
 collaborated on the design, prototyping, and documentation of the
-system:
-
--   **Shamini** — *(add your role, e.g. Documentation / Hardware / Coding)*
--   **[Team Member 2 Name]** — *(add their role)*
--   **[Team Member 3 Name]** — *(add their role)*
-
-> Replace the placeholder names above with your teammates' names, and
-> feel free to add what each person worked on (e.g. circuit design,
-> coding, testing, documentation).
-
+system
 ------------------------------------------------------------------------
 
-## ⚠️ Safety Note
+## Safety Note
 
 This prototype is intended for **educational and research demonstration
 purposes**. A real-world deployment would require appropriate
