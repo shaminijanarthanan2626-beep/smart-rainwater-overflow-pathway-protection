@@ -377,8 +377,7 @@ warning/indication interface
 Planned/expandable: - ⬜ Water-level-based hazard detection - ⬜ IoT
 monitoring - ⬜ GPS location reporting - ⬜ GSM emergency alerts - ⬜
 Solar-powered operation
-## After the connection !
-[After the connection](After the connection.jpg)
+##After the connection ![After the connection](After the connection.jpg)
 ------------------------------------------------------------------------
 
 ##  Author
